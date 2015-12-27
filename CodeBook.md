@@ -50,9 +50,9 @@ The following files are available for the train and test data. Their description
 ## How to run run_analyisi.R
 * Required librareis : data.table and Plyr package
 * Run/ Source the R script from the R prompt or Rstudio.
-* Check's if the file exits or not
-* Performs all the above 5 steps and output the tidy_average_data.txt
-		
+* Scripts check's if the file exits or not
+* Performs all the above steps in project description and output the tidy_average_data.txt
+
 ## Output File
 This code book also summarizes the resulting data fields in tidy_average_data.txt
 

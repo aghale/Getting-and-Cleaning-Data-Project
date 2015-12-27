@@ -28,5 +28,5 @@ tidy_average_data.txt output file of  the tidy dataset with the average of varia
 More detail information in CodeBook.md
 * Required librareis : data.table and Plyr package
 * Run/ Source the R script from the R prompt or Rstudio.
-* Check's if the file exits or not
-* Performs all the above 5 steps and output the tidy_average_data.txt
+* Scripts check's if the file exits or not
+* Performs all the above steps in project description and output the tidy_average_data.txt
