@@ -47,7 +47,7 @@ The following files are available for the train and test data. Their description
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## How to run '''run_analyisi.R'''
+## How to run run_analyisi.R
 * Required librareis : data.table and Plyr package
 * Run/ Source the R script from the R prompt or Rstudio.
 * Check's if the file exits or not

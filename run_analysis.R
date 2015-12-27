@@ -66,6 +66,6 @@ all_data <- cbind(x_data, y_data, subject_data)
 
 # 66<- 68 columns but last two (activity & subject)
 averages_data <- ddply(all_data, .(subject,activity),function(x) colMeans(x[,1:66]))
-# write ti text file
+# write average date to text file
 write.table(averages_data,"tidy_average_data.txt", row.name = FALSE)
 
