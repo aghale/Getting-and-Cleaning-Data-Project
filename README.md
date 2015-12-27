@@ -17,6 +17,16 @@ The script downloads the dataset if it doesn't exist.
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
+README.md is project description
+
 run_analyis.R contains R script and performs above required task. 
 
-tidy_average_data.txt outputs the tidy dataset with the average of variable as requred in step 5
+tidy_average_data.txt output file of  the tidy dataset with the average of variable as requred in step 5
+
+
+## How to run '''run_analyisi.R''' 
+More detail information in CodeBook.md
+* Required librareis : data.table and Plyr package
+* Run/ Source the R script from the R prompt or Rstudio.
+* Check's if the file exits or not
+* Performs all the above 5 steps and output the tidy_average_data.txt
