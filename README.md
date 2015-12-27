@@ -19,4 +19,4 @@ CodeBook.md describes the variables, the data, and any transformations or work t
 
 run_analyis.R contains R script and performs above required task. 
 
-tidy_average.txt outputs the tidy dataset with the average of variable as requred in step 5
+tidy_average_data.txt outputs the tidy dataset with the average of variable as requred in step 5
